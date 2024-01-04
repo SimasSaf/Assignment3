@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9hHoIejFuWzPOSfY/9hrRaoiifuvoQy4Bv8tHYR1/QF6FYlipXj89pdmxDMJpktcTnj3EgkiyXTAxZcX4Nc3gA==",
+  "success": true,
+  "projectFilePath": "C:\\codeNetworks\\assignment3\\Water\\Water.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\nlog\\5.2.4\\nlog.5.2.4.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\rabbitmq.client\\6.6.0\\rabbitmq.client.6.6.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

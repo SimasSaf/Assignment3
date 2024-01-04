@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Wolf",
+            "type": "coreclr",
+            "request": "launch",           
+            "preLaunchTask": "build-Wolf",
+            "program": "${workspaceFolder}/Wolf/bin/Debug/net7.0/Wolf.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Wolf",
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Rabbit",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-Rabbit",
+            "program": "${workspaceFolder}/Rabbit/bin/Debug/net7.0/Rabbit.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Rabbit",
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        }
+    ]
+}
